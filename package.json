@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MithunTechnologies/node-js-application"
+    "url": "https://github.com/praveenpsplt12/nodejs-app-mss.git"
   },
   "keywords": [
     "node",
-    "Mithun Technologies",
+    "Praveen Technologies",
     "express"
   ],
-  "author": "Mithun Reddy Lacchannagari",
+  "author": "Praveen Pasupuleti",
   "license": "MIT"
 }
